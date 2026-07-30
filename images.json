@@ -1,5 +1,13 @@
 [
   {
+    "id": "image-2026-07-30-02",
+    "title": "Image 2",
+    "date": "2026-07-30",
+    "webp": "images/2026-07-30/image-2026-07-30-02.webp",
+    "original_dropbox": "/site-images/2026-07-30/image-2026-07-30-02.jpg",
+    "source_url": "https://picsum.photos/id/1/5000/3333"
+  },
+  {
     "id": "image-2026-07-30-01",
     "title": "Image 1",
     "date": "2026-07-30",
